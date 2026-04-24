@@ -87,4 +87,4 @@ A premium, interactive developer portfolio built with **React** and **Vite**, de
 ### ⭐ Show your support
 If you liked this project, give it a star! It means a lot.
 
-Designed with ❤️ by Aditya Saxena.
+Designed with ❤️ by Aditya Saxena..
